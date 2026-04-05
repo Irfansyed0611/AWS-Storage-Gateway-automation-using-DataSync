@@ -1,4 +1,4 @@
-# AWS On-Premises to S3 Data Transfer Automation
+# On-Premise SMB Shares to AWS Storage Gateway (S3) Data Transfer Automation
 
 A robust, automated solution for securely synchronizing files from on-premises SMB file shares to AWS S3 using **AWS DataSync**, **Lambda**, **EventBridge**, **Systems Manager (SSM)**, and **Storage Gateway**.
 
